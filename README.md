@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Marina</a> </h1>
-<h3 align="center">Computer science student and IT news writer</h3>
+<h3 align="center">Data Analyst student</h3>
 
-[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
+[![leetcode](https://www.codewars.com/users/daniilshat/badges/small)](https://leetcode.com/merrsd/) 
 
 
 - 🌱 I’m currently learning **QA, python, web**
