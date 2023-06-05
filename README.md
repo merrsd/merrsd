@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Marina</a> </h1>
 <h3 align="center">Data Analyst student</h3>
 
-- 🌱 I’m currently learning **QA, python, web**
+- 🌱 I’m currently learning **Airflow, Tableau**
 
 - 📫 How to reach me **nesulovskay@gmail.com**
 
