@@ -1,18 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Marina</a> </h1>
 <h3 align="center">Data Analyst student</h3>
 
-[![leetcode](https://www.codewars.com/users/daniilshat/badges/small)](https://leetcode.com/merrsd/) 
-
-
 - 🌱 I’m currently learning **QA, python, web**
 
-- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
+- 📫 How to reach me **nesulovskay@gmail.com**
 
-- 📫 How to reach me **daniilshstukhin@gmail.com**
+- 📄 Know about my experiences (https://www.linkedin.com/in/nesulovskaia/)
 
-- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
-
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian (native), English (B2), French (B2), Chinese (B2)
 
 ### Connect with me:
 <p align="left">
